@@ -18,6 +18,9 @@ Press `Space` to rise and hold `Alt` to increase the movement speed.
 Remove a block by right-clicking on it, and create a new block with left-click.
 Exit by pressing `Escape`.
 
-### Footage
+### Images
+![Voxel renderer image](http://adrianblan.co/images/voxel-renderer.png)
+
+### Video
 
 https://www.youtube.com/watch?v=C4SYDdHvYQ0
